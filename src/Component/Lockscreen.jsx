@@ -1,4 +1,5 @@
 import React from "react";
+import "../css/lockscreen.css"
 
 class Lockscreen extends React.Component{
     render(){

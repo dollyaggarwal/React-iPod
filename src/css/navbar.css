@@ -4,4 +4,25 @@
 }
 .bottom-div-lock{
     display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+}
+.bar{
+    margin-top: -1px;
+    display: flex;
+    width: 270px;
+    height: 20px;
+    min-height: 20px;
+    background-color: #E3F2FD;
+    border-bottom: 1px solid black;
+}
+
+.heading{
+    margin: 1px 5px;
+    padding: 0px;
+}
+.time{
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
 }
