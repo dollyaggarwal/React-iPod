@@ -1,4 +1,5 @@
 import React from "react";
+import '../css/wheel.css';
 import { FaForward } from "react-icons/fa6";
 import { FaBackward } from "react-icons/fa6";
 import { IoPlay } from "react-icons/io5";
@@ -28,7 +29,7 @@ class Wheel extends React.Component{
             </div>
 
             <div className="blank" id="blank">
-                
+
             </div>
             </div>
         )
