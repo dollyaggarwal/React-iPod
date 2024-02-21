@@ -7,7 +7,7 @@ import { IoPause } from "react-icons/io5";
 import ZingTouch from "zingtouch";
 
 class Wheel extends React.Component{
-    constructor{
+    constructor(){
         super();
         this.this.state={
             angle:0,
